@@ -1,0 +1,2 @@
+# Another Button library for Arduino
+This library ease the button management. It is very naive, the main purpose it attaching a name to each button, useful to create dynamic APIs. If you are searching for an excellent and complete library to control your buttons, you should check [One Button](https://github.com/mathertel/OneButton). 
